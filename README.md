@@ -1,4 +1,4 @@
-# ✋✨ **Sign Language Translator (Real-Time Hand Gesture Recognition)**
+# ✋**Sign Language Translator (Real-Time Hand Gesture Recognition)**
 
 This project is a **real-time American Sign Language (ASL) letter recognition system** built using **OpenCV**, **cvzone**, and a **CNN-based classifier**.
 It captures hand gestures from a webcam, processes them, classifies them into letters, and displays the predicted text live.
